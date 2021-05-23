@@ -25,7 +25,20 @@
 
 
 # YOUR CODE HERE to define temp_classifier
-
+def temp_classifier(temp_celsius):
+  return temp_classifier(temp_celsius)
+  if temp_classifier(temp_celsius) <-2 :
+     print('0')
+elif
+    (temp_classifier(temp_celsius) >=-2) and (temp_classifier(temp_celsius) <2):
+elif 
+  (temp_classifier(temp_celsius) >=-2) and (temp_classifier(temp_celsius) <2):
+  print('1')
+elif 
+  (temp_classifier(temp_celsius)>=2) and (temp_classifier(temp_celsius)<15):
+  print('2')
+else :
+  print('3')
 # Use your newly created function to print the answers to the following questions:
 
 
