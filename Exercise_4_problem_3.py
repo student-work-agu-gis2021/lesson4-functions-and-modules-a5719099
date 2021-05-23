@@ -89,7 +89,7 @@ assert type(temp_classes) == list
 # CAUTION! Don't edit this line starts
 print(zeros,ones,twos,threes)
 # CAUTION! Don't edit this line ends
-
+from temp_functions.py import fahr_to_celsius,temp_classifier
 # ### Check your code
 #  
 # - Remeber to check that your have commented your code and used the required variable names. 
